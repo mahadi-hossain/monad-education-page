@@ -130,11 +130,8 @@ We may occasionally update this Privacy Policy. If changes are material, we’ll
 
 If you have any questions, requests, or complaints regarding this Privacy Policy or your personal data, please contact us at:
 
-**Monad Education Ltd.**
-Website: [https://monadeducation.net](https://monadeducation.net)
-Email: 
-Address: 
 
----
+
+
 
 
