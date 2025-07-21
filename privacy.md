@@ -2,7 +2,7 @@
 
 ## **Privacy Policy**
 
-**Effective Date:** \[Insert Date]
+**Effective Date:** 2024/06/09
 
 Monad Education Ltd. ("Monad", "we", "our", or "us") is committed to protecting your privacy. This Privacy Policy describes how we collect, use, and safeguard your personal information when you visit our website [https://monadeducation.net](https://monadeducation.net) and use our related services, including educational content, exam simulators, student communication tools, and marketing communications (collectively, the "Services").
 
