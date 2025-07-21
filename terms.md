@@ -2,7 +2,7 @@
 
 ## **Terms of Service**
 
-**Effective Date:** \[Insert Date]
+**Effective Date:** 2024/06/09
 
 Welcome to Monad Education Ltd. (“Monad”, “we”, “our”, or “us”). These Terms of Service (“Terms”) govern your access to and use of our website [https://monadeducation.net](https://monadeducation.net), mobile applications, and all related services (collectively, the “Services”).
 
